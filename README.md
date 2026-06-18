@@ -22,7 +22,7 @@ Handles model selection, hyperparameter tuning, and training tracking.
 
 ### 3. Evaluation Module (`evaluate.py`)
 Computes deep performance metrics to validate model reliability before deployment.
-- Core metrics tracked: Classification Report (Precision, Recall, F1-Score) and ROC-AUC.
+- Core metrics tracked: Classification Report (Precision, Recall, F1-Score).
 - Generation of confusion matrices and performance distribution curves.
 
 ---
