@@ -29,10 +29,7 @@ Computes deep performance metrics to validate model reliability before deploymen
 
 ## 📂 Project Structure
 ```text
-├── data/
-│   └── sample_data.csv       # Sanitized sample dataset for testing
 ├── preprocess.py             # Data cleaning and feature engineering
 ├── train.py                  # Model training and cross-validation
 ├── evaluate.py               # Performance metrics and evaluation plots
-├── requirements.txt          # Project dependencies
 └── README.md                 # Project documentation
